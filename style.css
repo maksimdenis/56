@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+}
+
+a {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    color: lightgreen;
+    text-align: center;
+    font-size: 40px;
+    box-shadow: 5px 5px 1px lightslategray;
+}
+.smile {
+    position: absolute;
+
+}
+
+.smile:hover {
+   left: 400px;
+}
+
+.ad {
+    float: right;
+    width: 350px;
+    margin-top: 90px;
+    padding: 30px;
+    border: 2px dotted navy;
+}
+
+p {
+    background-color: yellow;
+}
+
+.to  {
+    position: absolute;
+}
+.to:hover {
+    position: absolute;
+}
+
